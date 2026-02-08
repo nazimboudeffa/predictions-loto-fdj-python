@@ -62,6 +62,9 @@ predictions-loto-fdj-python/
 │   ├── clean_data_loto_euromillions.py
 │   └── analyse_loto_euromillions.ipynb
 │
+├── docs/                           # Documentation
+│   └── strategies-generation-tirages.md  # Guide des stratégies
+│
 └── README.md                       # Ce fichier
 ```
 
@@ -218,6 +221,8 @@ Chaque notebook propose 4 stratégies :
 2. **⚖️ Équilibré** : Distribution uniforme sur toutes les zones
 3. **🎲 Pondéré** : Probabilité proportionnelle aux fréquences
 4. **✨ Mix intelligent** : Combinaison de fréquence et variété (recommandé)
+
+📖 **Pour une explication détaillée de chaque stratégie** (algorithmes, avantages/inconvénients, exemples de code), consultez la [documentation complète des stratégies](docs/strategies-generation-tirages.md).
 
 ## ⚠️ Disclaimer important
 
