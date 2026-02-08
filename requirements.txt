@@ -1,0 +1,18 @@
+# Dépendances pour le projet de prédictions Loto
+# Installation : pip install -r requirements.txt
+
+# Data manipulation
+pandas>=3.0.0
+numpy>=2.4.0
+
+# Visualizations
+matplotlib>=3.10.0
+seaborn>=0.13.0
+
+# Jupyter notebooks
+jupyter>=1.0.0
+ipykernel>=7.2.0
+ipython>=9.10.0
+
+# Additional dependencies
+python-dateutil>=2.9.0
